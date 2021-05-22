@@ -1,5 +1,10 @@
 # Van-Sales-APP
 An application to ensure the ease of the buying and selling process between the representative and the customer
+![1](https://user-images.githubusercontent.com/48344341/119227393-e53ed000-bb0d-11eb-8b64-98ca509201ca.png)
+![2](https://user-images.githubusercontent.com/48344341/119227396-e7089380-bb0d-11eb-8c85-411e440e3bfa.png)
+![3](https://user-images.githubusercontent.com/48344341/119227397-e7a12a00-bb0d-11eb-95d2-d978b83f1085.png)
+![4](https://user-images.githubusercontent.com/48344341/119227398-e839c080-bb0d-11eb-91b9-126556ae6b13.png)
+![5](https://user-images.githubusercontent.com/48344341/119227400-ea038400-bb0d-11eb-9d9c-e08d5d5f47bc.png)
 ![6](https://user-images.githubusercontent.com/48344341/119227353-b294d780-bb0d-11eb-9e5b-fb8b26ca0d88.png)
 ![7](https://user-images.githubusercontent.com/48344341/119227356-b58fc800-bb0d-11eb-96e1-5f92637c8947.png)
 ![8](https://user-images.githubusercontent.com/48344341/119227357-b6285e80-bb0d-11eb-9cc1-fbd1698d383a.png)
@@ -9,10 +14,3 @@ An application to ensure the ease of the buying and selling process between the 
 ![12](https://user-images.githubusercontent.com/48344341/119227363-baed1280-bb0d-11eb-8948-ded533a9af75.png)
 ![13](https://user-images.githubusercontent.com/48344341/119227364-bd4f6c80-bb0d-11eb-8c91-e07baee11120.png)
 
-https://user-images.githubusercontent.com/48344341/119227365-be809980-bb0d-11eb-975c-3e583cfb6867.mp4
-
-![1](https://user-images.githubusercontent.com/48344341/119227393-e53ed000-bb0d-11eb-8b64-98ca509201ca.png)
-![2](https://user-images.githubusercontent.com/48344341/119227396-e7089380-bb0d-11eb-8c85-411e440e3bfa.png)
-![3](https://user-images.githubusercontent.com/48344341/119227397-e7a12a00-bb0d-11eb-95d2-d978b83f1085.png)
-![4](https://user-images.githubusercontent.com/48344341/119227398-e839c080-bb0d-11eb-91b9-126556ae6b13.png)
-![5](https://user-images.githubusercontent.com/48344341/119227400-ea038400-bb0d-11eb-9d9c-e08d5d5f47bc.png)
