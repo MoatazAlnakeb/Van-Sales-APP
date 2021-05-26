@@ -3,9 +3,9 @@ An application to ensure the ease of the buying and selling process between the 
 
 Screenshot
 <p>
-  <img src="1.png" width="100",height="150" />
-  <img src="2.png" width="100",height="150" />
-  <img src="3.png" width="100",height="150" />
+  <img src="1.png" width="150",height="200" />
+  <img src="2.png" width="150",height="200" />
+  <img src="3.png" width="150",height="200" />
   <img src="4.png" width="100",height="150" />
   <img src="5.png" width="100",height="150" />
   <img src="6.png" width="100",height="150" />
